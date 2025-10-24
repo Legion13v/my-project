@@ -1,2 +1,2 @@
 # my-project
-Traning JS
+Training JS
